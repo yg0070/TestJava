@@ -37,7 +37,7 @@ public class Tes {
         }
 	}*/
 	 public static void main(String[] args){  
-	        final String F_DIR = "D:/img";//根路径  222
+	        final String F_DIR = "D:/img";//根路径 
 	        final int PORT = 22;//监听端口号  
 	        Logger.getRootLogger();  
 	        Logger logger = Logger.getLogger("minaExamle");  
